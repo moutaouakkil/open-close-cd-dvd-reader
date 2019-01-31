@@ -9,7 +9,7 @@ DISCLAIMER: This is only for testing purposes and can only be used where strict 
 
 # Features
 
-The Open and Close CD-DVD Reader Randomly script written by [VBScript Language](https://en.wikipedia.org/wiki/VBScript), and it designed for make the victim's computer or laptop open and close the cd-dvd reader randomly, it will drive your friends crazy.
+The Open and Close CD-DVD Reader Randomly script written by [VBScript Language (Microsoft Visual Basic Scripting Edition)](https://en.wikipedia.org/wiki/VBScript), and it designed for make the victim's computer or laptop open and close the cd-dvd reader randomly, it will drive your friends crazy.
 
 
 # Supported platforms
