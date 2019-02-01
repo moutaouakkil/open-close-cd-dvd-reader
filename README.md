@@ -4,8 +4,6 @@ Copyright 2019 Open and Close CD-DVD Reader Randomly
 
 Written by: Othmane Moutaouakkil ([WHOAMI2507](https://github.com/whoami2507))
 
-DISCLAIMER: This is only for testing purposes and can only be used where strict consent has been given. Do not use this for illegal purposes, period.
-
 
 # Features
 
@@ -23,3 +21,7 @@ _You must ALLOW the script if it's reported as a threat from the windows defende
 ```bash
 Double click on the script
 ```
+
+
+# DISCLAIMER
+This is only for testing purposes and can only be used where strict consent has been given. Do not use this for illegal purposes, period.
