@@ -15,6 +15,8 @@ The Open and Close CD-DVD Reader Randomly script written by [VBScript Language (
 # Supported platforms
 * Windows
 
+# Requirements
+_You must ALLOW the script if it's reported as a threat from the windows defender._
 
 # Installation
 *Windows*
