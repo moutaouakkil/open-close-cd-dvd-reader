@@ -1,8 +1,8 @@
 '!/bin/vbs
 ' Open and Close CD-DVD Deader Randomly
 ' Version v1
-' Coded by: Othmane Moutaouakkil [ WHOAMI2507 ]  (You don't become a coder by just changing the credits)
-' Github: https://github.com/whoami2507
+' Coded by: Othmane Moutaouakkil [ moutaouakkil]
+' Github: https://github.com/moutaouakkil
 
 
 
