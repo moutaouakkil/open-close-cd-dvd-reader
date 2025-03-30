@@ -1,4 +1,4 @@
-# Open and Close CD-DVD Reader Randomly (Prink)
+# Open and Close CD-DVD Reader Randomly
 Written by: Othmane Moutaouakkil ([MOUTAOUAKKIL](https://github.com/moutaouakkil))
 
 ## Features
