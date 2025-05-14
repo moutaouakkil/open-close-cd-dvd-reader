@@ -1,5 +1,5 @@
 '!/bin/vbs
-' Open and Close CD-DVD Deader Randomly
+' open-close-cd-dvd-reader
 ' Version v1
 ' Coded by: Othmane Moutaouakkil [ moutaouakkil]
 ' Github: https://github.com/moutaouakkil
